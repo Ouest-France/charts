@@ -2,7 +2,16 @@ apiVersion: v1
 entries:
   k8s-vault-webhook:
   - apiVersion: v1
-    created: "2019-10-18T14:04:26.128224799+02:00"
+    created: "2019-10-18T16:24:16.902868167+02:00"
+    description: A Helm chart that deploys a kubernetes webhook to get secrets from
+      Hashicorp Vault
+    digest: e7e7211192cc1de0e5580bfd2180581f64c66496532352b29c54b46a3e4d086b
+    name: k8s-vault-webhook
+    urls:
+    - https://charts.ouest-france.fr/k8s-vault-webhook-0.0.2.tgz
+    version: 0.0.2
+  - apiVersion: v1
+    created: "2019-10-18T16:24:16.902625252+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 2dd2589e0db82b97ae738de6df885b87c27177278bd57a5280a358cdaf673d50
@@ -10,4 +19,4 @@ entries:
     urls:
     - https://charts.ouest-france.fr/k8s-vault-webhook-0.0.1.tgz
     version: 0.0.1
-generated: "2019-10-18T14:04:26.12757434+02:00"
+generated: "2019-10-18T16:24:16.902030218+02:00"
