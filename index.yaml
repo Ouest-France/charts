@@ -3,7 +3,7 @@ entries:
   fortiadc-operator:
   - apiVersion: v1
     appVersion: 0.1.4
-    created: "2021-02-10T11:06:31.751068162+01:00"
+    created: "2021-09-28T15:49:40.485173881+02:00"
     description: A Helm chart that deploys a kubernetes operator which allow to create
       external resources in a fortiadc server
     digest: 8a8258f4d0f2d7b542c04affd56834e425d1f2ae5397034449c3dcb0bfad4836
@@ -13,7 +13,7 @@ entries:
     version: 0.1.0
   k8s-vault-webhook:
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.762321008+01:00"
+    created: "2021-09-28T15:49:40.501483165+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 5c18d541e8de9a762a8a7828e73ce2d1e00e8f64c9aae5439bfef95d04383d98
@@ -22,7 +22,7 @@ entries:
     - k8s-vault-webhook-0.3.0.tgz
     version: 0.3.0
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.761670923+01:00"
+    created: "2021-09-28T15:49:40.499391171+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 4c49790cf99c001dec980a22189abfd9f73eda5c89adca9e2190d7764dad65bf
@@ -31,7 +31,7 @@ entries:
     - k8s-vault-webhook-0.2.4.tgz
     version: 0.2.4
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.760999247+01:00"
+    created: "2021-09-28T15:49:40.496774799+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: aa6e7d0dbef77592599c399165d002e923844fd57fc5d13f392a2321f7b2cc3d
@@ -40,7 +40,7 @@ entries:
     - k8s-vault-webhook-0.2.3.tgz
     version: 0.2.3
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.760366236+01:00"
+    created: "2021-09-28T15:49:40.495341215+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 85ccaf89e1e393886d77588f2fde61b95769925c0efe1329de1e552b018076c5
@@ -49,7 +49,7 @@ entries:
     - k8s-vault-webhook-0.2.1.tgz
     version: 0.2.1
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.759789171+01:00"
+    created: "2021-09-28T15:49:40.494311698+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 1226237b478d1f595ec41bb5a7d1fcca0c3582a40ddf6eba78120b1cf0023482
@@ -58,7 +58,7 @@ entries:
     - k8s-vault-webhook-0.2.0.tgz
     version: 0.2.0
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.759055502+01:00"
+    created: "2021-09-28T15:49:40.493315274+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: e2d44aec85b32bde798ea0ce7b4fb9041432ec1252d9b462c967a425ba8e0548
@@ -67,7 +67,7 @@ entries:
     - k8s-vault-webhook-0.1.0.tgz
     version: 0.1.0
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.758257541+01:00"
+    created: "2021-09-28T15:49:40.492328894+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 2233ac74d175594ec69da061f6522c89b2909c62e0ce2c27471d3d737a46ef5e
@@ -76,7 +76,7 @@ entries:
     - k8s-vault-webhook-0.0.7.tgz
     version: 0.0.7
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.757409445+01:00"
+    created: "2021-09-28T15:49:40.491286477+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: ee7bd43c7cad536ccb0c5a0dce4ae40d5e465bd6c958ea875833e8432604f17d
@@ -85,7 +85,7 @@ entries:
     - k8s-vault-webhook-0.0.6.tgz
     version: 0.0.6
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.756853894+01:00"
+    created: "2021-09-28T15:49:40.490222374+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: eab7d4740c6f7ce48ed615312342c425b431d58176e3909a78711098c356a814
@@ -94,7 +94,7 @@ entries:
     - k8s-vault-webhook-0.0.5.tgz
     version: 0.0.5
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.756384687+01:00"
+    created: "2021-09-28T15:49:40.489249781+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 099667f89139f58184642ea6a9fe7ed0a7fb25af99170e219bfab6e24ff76534
@@ -103,7 +103,7 @@ entries:
     - k8s-vault-webhook-0.0.4.tgz
     version: 0.0.4
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.755647807+01:00"
+    created: "2021-09-28T15:49:40.488015388+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 9a982e7291508b9718eaccce7631dc6e1b790918f1747c500d09151f5a66fc2b
@@ -112,7 +112,7 @@ entries:
     - k8s-vault-webhook-0.0.3.tgz
     version: 0.0.3
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.754810557+01:00"
+    created: "2021-09-28T15:49:40.487036682+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: e7e7211192cc1de0e5580bfd2180581f64c66496532352b29c54b46a3e4d086b
@@ -121,7 +121,7 @@ entries:
     - k8s-vault-webhook-0.0.2.tgz
     version: 0.0.2
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.752495668+01:00"
+    created: "2021-09-28T15:49:40.486105988+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 2dd2589e0db82b97ae738de6df885b87c27177278bd57a5280a358cdaf673d50
@@ -132,7 +132,18 @@ entries:
   k8svaultwebhook:
   - apiVersion: v2
     appVersion: v0.3.1
-    created: "2021-02-10T11:06:31.766662421+01:00"
+    created: "2021-09-28T15:49:40.510376447+02:00"
+    description: A Helm chart that deploys a kubernetes webhook to get secrets from
+      Hashicorp Vault
+    digest: ba75d4c26a1a5e46b4e694b7ebd17845afc6ec90958ecea49730528d5dfd08c7
+    name: k8svaultwebhook
+    type: application
+    urls:
+    - k8svaultwebhook-0.5.2.tgz
+    version: 0.5.2
+  - apiVersion: v2
+    appVersion: v0.3.1
+    created: "2021-09-28T15:49:40.509012597+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: edc2015e47b42bf6cd112803ab589d665dfd7557af69968c4568e1175d964a63
@@ -143,7 +154,7 @@ entries:
     version: 0.5.1
   - apiVersion: v2
     appVersion: v0.3.0
-    created: "2021-02-10T11:06:31.766074632+01:00"
+    created: "2021-09-28T15:49:40.50740048+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: c16491edf2b0bf888dee944716a89c6749863dff13ab8802a80121d6ab4ed5dd
@@ -153,7 +164,7 @@ entries:
     - k8svaultwebhook-0.5.0.tgz
     version: 0.5.0
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.765288792+01:00"
+    created: "2021-09-28T15:49:40.506172136+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 625e87a49f46de0d6ed12bc0a345de8ecba06a96ff953ef7caca2b0e6a68f05b
@@ -162,7 +173,7 @@ entries:
     - k8svaultwebhook-0.4.3.tgz
     version: 0.4.3
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.764385441+01:00"
+    created: "2021-09-28T15:49:40.504940597+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 9632e844967ae25054b7a0cb760ddc0ab9be57fa19f281576b0cf8805d67cbac
@@ -171,7 +182,7 @@ entries:
     - k8svaultwebhook-0.4.2.tgz
     version: 0.4.2
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.763682723+01:00"
+    created: "2021-09-28T15:49:40.503664242+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 753148b0cbec9ec1fd6d182f8e0faf7b9a3a2dd6f68915318a2084dce0d66897
@@ -180,7 +191,7 @@ entries:
     - k8svaultwebhook-0.4.1.tgz
     version: 0.4.1
   - apiVersion: v1
-    created: "2021-02-10T11:06:31.762973585+01:00"
+    created: "2021-09-28T15:49:40.50258405+02:00"
     description: A Helm chart that deploys a kubernetes webhook to get secrets from
       Hashicorp Vault
     digest: 4ee01745bd00c553287f0de7b6e86a6c89e2e665a25012eb1d21d51ad4d1f317
@@ -188,4 +199,4 @@ entries:
     urls:
     - k8svaultwebhook-0.4.0.tgz
     version: 0.4.0
-generated: "2021-02-10T11:06:31.746384435+01:00"
+generated: "2021-09-28T15:49:40.480230308+02:00"
